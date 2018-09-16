@@ -3,12 +3,12 @@
 ## 课程资料
 [课程主页](http://cs231n.stanford.edu/)
 [英文笔记](http://cs231n.github.io/)
-[中文笔记](https://zhuanlan.zhihu.com/p/21930884)
+[中文笔记](https://zhuanlan.zhihu.com/p/21930884)
 [课程视频](https://www.bilibili.com/video/av17204303/)
-[作业链接](https://github.com/sharedeeply/cs231n-assignment)
+[作业链接](https://github.com/sharedeeply/cs231n-assignment)
 [环境配置](https://github.com/sharedeeply/DeepLearning-StartKit)
 
-上面是本次训练营经常需要用到的网页，所以顶置便于大家查询
+上面是本次训练营经常需要用到的网页，所以顶置便于大家查询
 
 ## 前言
 对于算法工程师，不同的人的认知角度都是不同的，我们通过下面三个知乎的高票回答帮助大家了解算法工程师到底需要做什么样的事，工业界需要什么样的能力
@@ -22,7 +22,7 @@
 ## 学习安排
 ### Week 1
 1. 计算机视觉综述  
-**slides:** [lecture01](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture01.pdf)
+**slides:** [lecture01](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture01.pdf)
 - 观看视频 p1 和 p2 热身，了解计算机视觉概述以及历史背景
 - 观看 p3 了解整门课程的大纲
 
@@ -36,7 +36,7 @@
 2. 完成assignment1 中的 knn.ipynb, 最后的效果截图上传
 
 ### Week2
-1. 学习线性分类器中下, 损失函数和优化器  
+1. 学习线性分类器中下, 损失函数和优化器  
 **slides:** [lecture03](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture03.pdf)
 - 观看视频 p7 和 p8
 - 学习[线性分类笔记中下](https://zhuanlan.zhihu.com/p/20945670?refer=intelligentunit) 和[最优化笔记](https://zhuanlan.zhihu.com/p/21360434?refer=intelligentunit)
@@ -48,5 +48,5 @@
 
 
 ### Week3
-1. 学习神经网络  
+1. 学习神经网络  
 **slides:** [lecture04](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture04.pdf)
